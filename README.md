@@ -80,5 +80,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [404-NotFound](https://pierre-ol.github.io/404-NotFound/)
-- GitHub [Pierre-OL](https://github.com/Pierre-OL)
+- GitHub [PierreLogs](https://github.com/PierreLogs)
 - Twitter [lepierre19](https://twitter.com/lepierre19)
